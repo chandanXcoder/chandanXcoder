@@ -5,6 +5,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Fading Line Separator" width="100%" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanXcoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanXcoder&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanXcoder&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 -  👨‍💻 I’m **chandanXcoder**, a passionate coder and learner.
@@ -23,18 +36,7 @@
 </p>
 <br>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanXcoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanXcoder&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanXcoder&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-
-
+---
 
 ## 📊 GitHub Contribution Graph
 <a href="https://github.com/chandanXcoder">
