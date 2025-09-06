@@ -7,7 +7,10 @@
 
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in **Computer Science and Engineering**  
+-  👨‍💻 I’m **chandanXcoder**, a passionate coder and learner.
+- 🌍 Open to collaborations in **Webapp Development & Server Hosting**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I am single** 😜 
 - 💻 Interested in **Web Development, AI, and Problem Solving**  
 - 🌱 Currently learning **DSA & React.js**  
 - 🚀 Building real-world projects using **HTML, CSS, JavaScript**  
