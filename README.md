@@ -50,12 +50,13 @@
 <a href="https://www.instagram.com/__mr._chand__810__?igsh=MWRwamRxc3NvaG9tNw== " target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
+
+
+
+
+<h3 align="center">
+  Thanks for visiting! 🚀<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Keep+building+cool+stuff!;Follow+for+more+dev+journeys+%F0%9F%9A%80" alt="Thanks animation" />
+</h3>
+
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanXcoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-⭐️ From [Chandan Verma](https://github.com/chandanXcoder)
