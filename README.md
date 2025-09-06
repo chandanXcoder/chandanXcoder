@@ -19,13 +19,6 @@
 
 
 
-## 🛠️ Languages & Tools
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandanXcoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
@@ -37,6 +30,10 @@
 </p>
 
 ---
+## 🛠️ Languages & Tools
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
 <br>
 
 
