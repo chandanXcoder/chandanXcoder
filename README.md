@@ -17,7 +17,11 @@
 - 📫 Reach me at: **chaandanverma@gmail.com**
 ---
 
-
+## 🛠️ Languages & Tools
+<p align="left"> 
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
+<br>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -29,12 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanXcoder&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
----
-## 🛠️ Languages & Tools
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,react,nodejs,mongodb,git,github,vscode" />
-</p>
-<br>
+
 
 
 ## 📊 GitHub Contribution Graph
