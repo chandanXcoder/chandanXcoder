@@ -28,6 +28,7 @@
 - 🌱 Currently learning **DSA & React.js**  
 - 🚀 Building real-world projects using **HTML, CSS, JavaScript**  
 - 📫 Reach me at: **chaandanverma@gmail.com**
+
 ---
 
 ## 🛠️ Languages & Tools
