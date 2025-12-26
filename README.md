@@ -13,7 +13,9 @@
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandanXcoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanXcoder&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=chandanXcoder&theme=tokyonight" />
+
+ </p>
 
 
 ---
