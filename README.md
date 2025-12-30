@@ -9,11 +9,11 @@
 </p>
 
 
- ## 📊 GitHub Stats
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanXcoder&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanXcoder&theme=tokyonight" alt="GitHub Streak" height="165"/>
-<img src="https://streak-stats.demolab.com?user=chandanXcoder&theme=tokyonight" />
+ 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chandanXcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chandanXcoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanXcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
  </p>
 
