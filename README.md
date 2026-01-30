@@ -27,7 +27,7 @@
 - ⚡ Fun fact: **I am single** 😜 
 - 💻 Interested in  **Web Development, AI, and Problem Solving**  
 - 🌱 Currently learning **DSA & React.js**  
-- 🚀 Building real-world projects using **HTML, CSS, JavaScript**  
+- 🚀 Building real-world projects using ** React, Flutter.**  
 - 📫 Reach me at: **chaandanverma@gmail.com**
 
 ---
