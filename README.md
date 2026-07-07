@@ -28,7 +28,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am single** 😜  
 - 💻 Interested in **Web Development, AI, and Problem Solving**  
-- 🌱 Currently learning **DSA, React.js & Next.js**  
+- 🌱 Currently learning **DSA and **  
 - 🚀 Building real-world projects using **React & Next.js**  
 - 📫 Reach me at: **chaandanverma@gmail.com**
 
