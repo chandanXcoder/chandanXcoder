@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Chandan%20Verma&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20Student&descAlignY=56"/>
+
+</div>
 <h1 align="center">Hi 👋, I'm Chandan Verma</h1>
 
 <p align="center">
@@ -16,18 +21,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanXcoder&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanXcoder&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
 ## 👨‍💻 About Me
 - 👨‍💻 I’m **chandanXcoder**, a passionate coder and learner.
-- 🌍 Open to collaborations in **Webapp Development & Server Hosting**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am single** 😜  
-- 💻 Interested in **Web Development, AI, and Problem Solving**  
+- 💻 Interested in **web app Development, AI, and Problem Solving**  
 - 🌱 Currently learning **DSA and **  
 - 🚀 Building real-world projects using **React & Next.js**  
 - 📫 Reach me at: **chaandanverma@gmail.com**
