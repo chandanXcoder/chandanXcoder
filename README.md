@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Chandan%20Verma&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20Student&descAlignY=56"/>
